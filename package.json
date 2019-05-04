@@ -1,0 +1,25 @@
+{
+  "name": "ganesha",
+  "version": "1.0.0",
+  "description": "This is the backend server to support incoming API requests from web and mobile platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamDixit/Ganesha.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Backend",
+    "Server",
+    "Database"
+  ],
+  "author": "Abhishek Dixit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamDixit/Ganesha/issues"
+  },
+  "homepage": "https://github.com/IamDixit/Ganesha#readme"
+}
